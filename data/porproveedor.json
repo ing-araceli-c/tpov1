@@ -1,0 +1,26 @@
+{
+    "nodes": [
+        {
+            "name": "A1"
+        },
+        {
+            "name": "A2"
+        }
+    ],
+    "links": [
+        {
+            "source": 26,
+            "target": 33,
+            "value": "718620.00",
+            "numero": "1",
+            "tipo": "Contratos"
+        },
+        {
+            "source": 27,
+            "target": 33,
+            "value": "2320000.00",
+            "numero": "2",
+            "tipo": "Contratos"
+        }
+    ]
+}

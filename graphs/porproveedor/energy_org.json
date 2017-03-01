@@ -1,0 +1,51 @@
+{"nodes":[
+{"name":"Radio"},
+{"name":"Television"},
+{"name":"Cine"},
+{"name":"Medios impresos"},
+{"name":"Medios complementarios"},
+{"name":"Internet"},
+{"name":"Producción de contenidos"},
+{"name":"Análisis, estudios y métricas"},
+{"name":"Impresiones"},
+
+{"name":"Contrato"},
+{"name":"Orden"},
+
+{"name":"Publicidad de Mexicali S.A. de C.V."},
+{"name":"Televisión estatal S.A. de C.V."},
+{"name":"Impresos y medios S.A. de C.V."},
+{"name":"Servicios Netmarketing S.A. de C.V."},
+{"name":"Universidad de Mexicali S.A. de C.V."}
+
+],
+"links":[
+{"source":0,"target":9,"value":124.729},
+{"source":1,"target":9,"value":0.597},
+{"source":2,"target":9,"value":26.862},
+{"source":3,"target":9,"value":280.322},
+{"source":5,"target":9,"value":35},
+{"source":6,"target":9,"value":56},
+{"source":7,"target":9,"value":11.606},
+{"source":8,"target":9,"value":17.32},
+{"source":2,"target":10,"value":45.34},
+{"source":3,"target":10,"value":80.32},
+{"source":4,"target":10,"value":11.44},
+{"source":5,"target":10,"value":5.32},
+{"source":6,"target":10,"value":30.03},
+{"source":7,"target":10,"value":17.606},
+{"source":8,"target":10,"value":37.32},
+
+{"source":9,"target":13,"value":132.03},
+{"source":10,"target":12,"value":75.606},
+
+{"source":9,"target":11,"value":30.03},
+{"source":10,"target":13,"value":75.606},
+
+{"source":9,"target":14,"value":45.03},
+{"source":10,"target":15,"value":15.606},
+
+{"source":9,"target":12,"value":33.03},
+{"source":10,"target":15,"value":15.606}
+
+]}

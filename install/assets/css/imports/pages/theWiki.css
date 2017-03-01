@@ -1,0 +1,242 @@
+/*------------------------------------------------------------------
+
+[Main Stylesheet Stylesheet]
+
+Project       :	    AppSudi Installer
+Version       :	    1.0
+Last Update   :	    23/02/2014
+File Name     :	    Wiki Styles
+
+
+*** Any customizations made to this should be added to the custom.css
+stylesheet in order to separate your customizations and make
+upgrading in the future easier. ***
+
+-------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+[ Global ]
+*/
+
+
+
+
+
+/**
+*
+*
+*
+*
+**/
+
+
+/* IMPORT ALL CUSTOM PLUGIN STYLES
+======================================================================================================================*/
+.theWiki{
+    background: #ffffff;
+}
+.navbar i{
+    font-size: 15px;
+    line-height: normal;
+    margin: 0 5px 0 0;
+}
+.masthead{
+    margin: 70px 0 20px;
+    padding: 20px 0;
+    text-align: center;
+}
+.masthead h1{
+    font-size: 60px;
+    margin: 0 0 10px;
+}
+.masthead h1 .logoThinner{
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    margin: 0 -18px 0 0;
+    padding: 0;
+}
+.masthead .byLine {
+    color: #999999;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 0;
+    text-align: center;
+}
+.masthead p.lead {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 36px;
+    margin: 10px 5px;
+}
+.masthead p.downloadInfo {
+    margin: 40px 0 10px;
+}
+.downloadInfo .btn{
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    margin: 5px 10px;
+    padding: 15px 30px;
+}
+.downloadInfo i{
+    margin: 0 15px 0 0;
+}
+
+
+
+.thankIntro{
+    padding: 20px;
+    text-align: justify;
+}
+.thankIntro .lead{
+    margin: 0;
+    padding: 0;
+}
+
+
+.theMarkup{
+    border-bottom: 15px solid #EEEEEE;
+    margin: 0 0 20px;
+    padding: 0 0 40px;
+}
+.wikiHeader{
+    margin: 18px 0 30px;
+    border: 0;
+    border-bottom: 15px solid #eeeeee;
+}
+.theMarkup h3{
+    border-bottom: 1px solid rgb(238, 238, 238);
+    margin: 0 0 5px;
+    padding: 0 0 5px;
+}
+.wikiHeader p{
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 0 0 10px;
+    text-align: justify;
+}
+.wikiHeader .page-header{
+    position: relative;
+}
+.wikiHeader .page-header small{
+    bottom: 20px;
+    float: right;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+}
+.addBreaker{
+    border-bottom: 15px solid #EEEEEE;
+    margin: 0 0 30px;
+    padding: 0 0 10px;
+}
+.unBreaker{
+    border-bottom: 1px solid transparent;
+    margin: 0 0 30px;
+    padding: 0 0 10px;
+}
+.finalWord{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+    margin: 25px 0 0;
+    text-align: justify;
+}
+.table-bordered{
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+.panel-title a{
+    display: block;
+    position: relative;
+}
+.panel-title .mileDate{
+    position: absolute;
+    right: 0;
+}
+.panel-collapse h5 {
+    color: #333333;
+    border-bottom: 1px dotted #DDDDDD;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+/*
+ * Footer
+ *
+ * Separated section of content at the bottom of all pages, save the homepage.
+ */
+
+
+.wikiFooter {
+    border-top: 1px solid #E5E5E5;
+    color: #777777;
+    margin: 30px 0 0;
+    padding: 0 0 10px;
+}
+.footer-links {
+    margin: 10px 0;
+    padding-left: 0;
+}
+.footer-links li {
+    display: inline;
+    padding: 0 2px;
+}
+.footer-links li:first-child {
+    padding-left: 0;
+}
+.wikiFooter p {
+    margin-bottom: 0;
+}
+/*
+ * Social buttons
+ *
+ * Twitter and GitHub social action buttons (for homepage and footer).
+ */
+
+.bs-social {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bs-social-buttons {
+    display: inline-block;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+.bs-social-buttons li {
+    display: inline-block;
+    line-height: 1;
+    padding: 5px 8px;
+}
+.bs-social-buttons .twitter-follow-button {
+    width: 225px !important;
+}
+.bs-social-buttons .twitter-share-button {
+    width: 98px !important;
+}
+/* Style the GitHub buttons via CSS instead of inline attributes */
+.github-btn {
+    border: 0;
+    overflow: hidden;
+}
+
+
+
+
+
+
+

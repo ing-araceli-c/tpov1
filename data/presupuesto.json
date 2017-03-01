@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Concepto 1",
+        "subtitle": "",
+        "ranges": [
+            "30821433.00"
+        ],
+        "measures": [
+            "26014915.11"
+        ],
+        "markers": [
+            "29571912.40"
+        ]
+    },
+    {
+        "title": "Concepto 2",
+        "subtitle": "",
+        "ranges": [
+            "3435433.00"
+        ],
+        "measures": [
+            "1866121.03"
+        ],
+        "markers": [
+            "5293454.03"
+        ]
+    },
+    {
+        "title": "Concepto 3",
+        "subtitle": "",
+        "ranges": [
+            "27386000.00"
+        ],
+        "measures": [
+            "24148794.08"
+        ],
+        "markers": [
+            "24278458.37"
+        ]
+    }
+]

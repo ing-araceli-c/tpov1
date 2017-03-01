@@ -1,0 +1,317 @@
+/*------------------------------------------------------------------
+
+[Main Stylesheet Stylesheet]
+
+Project       :	    AppSudi Installer
+Version       :	    1.0
+Last Update   :	    23/02/2014
+
+
+*** Any customizations made to this should be added to the custom.css
+stylesheet in order to separate your customizations and make
+upgrading in the future easier. ***
+
+-------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+[ Global ]
+*/
+
+
+
+
+
+/**
+*
+*
+*
+*
+**/
+
+
+/* IMPORT ALL CUSTOM PLUGIN STYLES
+======================================================================================================================*/
+@import "imports/plugins/checkbox-radio-switch.css";
+@import "imports/plugins/bootstrapValidator.css";
+@import "imports/plugins/chosen.css";
+@import "imports/plugins/jquery-slider.css";
+@import "imports/plugins/refineslide.css";
+@import "imports/plugins/jquery.tagsinput.css";
+@import "imports/plugins/prettify.css";
+
+
+/* IMPORT ALL FRAMEWORK STYLES
+======================================================================================================================*/
+@import "imports/frameworks/bootstrap.css";
+
+
+/* IMPORT ALL PAGES STYLES
+======================================================================================================================*/
+@import "imports/pages/theWiki.css";
+
+
+/* IMPORT ALL FONTS STYLES
+======================================================================================================================*/
+@import "fonts/font.collection.css";
+
+
+/* IMPORT SOCIAL ICON STYLES & FONTS
+======================================================================================================================*/
+@import "../fonts/font-awesome/css/font-awesome.min.css";
+
+
+/* IMPORT ALL STYLES & THE RESPONSIVE FRAMEWORK
+======================================================================================================================*/
+@import "imports/responsive.style.css";
+
+
+/* NOW BEGIN ALL GENERAL OVERRIDE STYLE CONFIGURATIONS
+======================================================================================================================*/
+html,body {
+    overflow-x: hidden; /* Prevent scroll on narrow devices */
+    min-height: 100%;
+    -webkit-font-smoothing: antialiased;
+    background: rgba(255, 255, 255, 0);
+    background: -webkit-linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0));
+    background: -moz-linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0));
+    background: -ms-linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0));
+    background: -o-linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0));
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0));
+    background-color: #e8ebef;
+    background-repeat: no-repeat;
+    height: 100%
+}
+
+
+
+
+/* CUSTOM HELPER CLASSES & DIV's STYLING
+======================================================================================================================*/
+.theInstall{
+    padding: 110px 0 0;
+}
+.theWell {
+    display: inline-block;
+    background: 0;
+    -webkit-box-shadow: 0 0 0 1px rgba(14, 41, 57, 0.12), 0 2px 5px rgba(14, 41, 57, 0.44), inset 0 -1px 2px rgba(14, 41, 57, 0.15);
+    -moz-box-shadow: 0 0 0 1px rgba(14, 41, 57, 0.12), 0 2px 5px rgba(14, 41, 57, 0.44), inset 0 -1px 2px rgba(14, 41, 57, 0.15);
+    -ms-box-shadow: 0 0 0 1px rgba(14, 41, 57, 0.12), 0 2px 5px rgba(14, 41, 57, 0.44), inset 0 -1px 2px rgba(14, 41, 57, 0.15);
+    -o-box-shadow: 0 0 0 1px rgba(14, 41, 57, 0.12), 0 2px 5px rgba(14, 41, 57, 0.44), inset 0 -1px 2px rgba(14, 41, 57, 0.15);
+    box-shadow: 0 0 0 1px rgba(14, 41, 57, 0.12), 0 2px 5px rgba(14, 41, 57, 0.44), inset 0 -1px 2px rgba(14, 41, 57, 0.15);
+    background: #f2f6f9;
+    background: -webkit-linear-gradient(#fff, #f2f6f9);
+    background: -moz-linear-gradient(#fff, #f2f6f9);
+    background: -ms-linear-gradient(#fff, #f2f6f9);
+    background: -o-linear-gradient(#fff, #f2f6f9);
+    background: linear-gradient(#fff, #f2f6f9);
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    border-radius: 6px;
+    padding: 20px;
+    width: 100%;
+}
+.theInner{
+    display: block;
+    color: #455b67;
+    background-color: #ffffff;
+    border: 1px solid rgba(14, 41, 57, 0.1);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5);
+    -ms-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5);
+    -o-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5);
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    border-radius: 6px;
+    margin: 20px 0;
+    padding: 20px 15px 15px;
+}
+.thatInstall{
+    padding: 30px;
+    text-align: center;
+}
+.testDb{
+    margin: 150px 0 0;
+}
+
+
+
+/* FORM & FORM CONTROLS STYLING
+======================================================================================================================*/
+.theWell .form-control {
+    display: block;
+    font-size: 20px;
+    font-weight: 100;
+    height: 50px;
+    line-height: 50px;
+    padding: 12px 25px 10px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+.theWell .tagsinput.form-control {
+    display: block;
+    font-size: 20px;
+    font-weight: 100;
+    height: 50px;
+    line-height: 20px;
+    padding: 12px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+.theWell textarea.form-control {
+    display: block;
+    font-size: 20px;
+    font-weight: 100;
+    height: 150px;
+    line-height: 50px;
+    padding: 12px 25px 10px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    resize: none;
+}
+
+
+
+
+
+/* TYPOGRAPHY & UTILITIES STYLING
+======================================================================================================================*/
+.thatHeader{
+    margin: 0 0 30px;
+}
+.theWell .help-block{
+    font-weight: 600;
+    margin: 1px 0 0;
+    padding: 0 10px;
+}
+.theHeading{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.26);
+    margin: 0 0 5px;
+    padding: 0 0 10px;
+}
+.installSuccess p{
+    margin: 0;
+}
+.installSuccess .messageBlock{
+    font-size: 21px;
+    font-weight: 200;
+    margin: 0 0 30px;
+}
+.dummyData p{
+    text-align: center;
+    font-weight: 100;
+}
+.theInstall .page-header{
+    border-bottom: 1px solid #EEEEEE;
+    margin: 20px 0 30px;
+    padding: 0 0 10px;
+    position: relative;
+}
+.theInstall .page-header small{
+    bottom: 20px;
+    float: right;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+}
+.theInstall header {
+    margin: 20px 0 40px;
+}
+
+
+
+/* CUSTOM UTILITIES STYLING
+======================================================================================================================*/
+.theWell i{
+    margin: 0 5px 0 0;
+}
+.theWell .lead{
+    font-size: 21px;
+    line-height: 21px;
+}
+.paddingBlock{
+    padding: 0 10px;
+}
+.upperBlock{
+    margin: 30px 0 0;
+}
+.theInner .input-group-addon,
+.theWell .input-group-addon{
+    width: 200px;
+    font-size: 16px;
+    text-align: right;
+}
+.theInner .input-group-addon i,
+.theWell .input-group-addon i{
+    margin: 0 10px 0 0;
+}
+.thisHome .jumbotron {
+    text-align: center;
+    background-color: transparent;
+}
+.thisHome .jumbotron .btn {
+    padding: 14px 24px;
+    font-size: 21px;
+}
+.btn.thatBtn{
+    padding: 10px 30px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+.theTip .popover{
+    max-width: 360px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+.theTip .popover-title{
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+.theTip .popover-content{
+    padding: 10px;
+}
+.theStrip {
+    height: 10px;
+    border-top: 0;
+    background: #c4e17f;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+
+
+/* FOOTER STYLING
+======================================================================================================================*/
+footer {
+    border-top: 1px solid rgba(14, 41, 57, 0.1);
+    padding: 30px 0;
+}

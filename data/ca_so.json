@@ -1,0 +1,32 @@
+{
+    "name": "Presupuesto $ 26,075,907 ( 3 )",
+    "children": [
+        {
+            "name": "Programa 1 $ 23,653,439 ( 1 )",
+            "size": 23653439.28,
+            "children": [
+                {
+                    "name": "Concepto A - $ 23,653,439",
+                    "size": 23653439.28,
+                    "id": 12
+                }
+            ]
+        },
+        {
+            "name": "Programa 2 $ 2,422,469 ( 2 )",
+            "size": 2422468.63,
+            "children": [
+                {
+                    "name": "Concepto B - $ 2,000,000",
+                    "size": 2000000,
+                    "id": 3
+                },
+                {
+                    "name": "Concepto C - $ 66,503",
+                    "size": 422469,
+                    "id": 4
+                }
+            ]
+        }
+    ]
+}

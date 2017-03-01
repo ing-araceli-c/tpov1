@@ -1,0 +1,336 @@
+Category,Level1,Level2,Level3,Level4,Federal,,GovXFer,State,Local,Total
+-Sickness and disability,Salud,Sickness and disability,,,0,,0,0,0,0
+---Special Benefits,Salud,Old age,Federal employee retirement and disability (602),Special Benefits,0.38,b,,,,0.38
+---Foreign Service Retirement and Disability Fund,Salud,Old age,Federal employee retirement and disability (602),Foreign Service Retirement and Disability Fund,0.893,b,,,,0.893
+---Armed Forces Retirement Home,Salud,Old age,Federal employee retirement and disability (602),Armed Forces Retirement Home,0.083,b,,,,0.083
+---Military Retirement Fund,Salud,Old age,Federal employee retirement and disability (602),Military Retirement Fund,54.561,b,,,,54.561
+"---Re-employed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",Salud,Old age,Federal employee retirement and disability (602),"Reemployed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",-0.052,b,,,,-0.052
+---Civil Service Retirement and Disability Fund,Salud,Old age,Federal employee retirement and disability (602),Civil Service Retirement and Disability Fund,0.105,b,,,,0.105
+---Civil Service Retirement and Disability Fund,Salud,Old age,Federal employee retirement and disability (602),Civil Service Retirement and Disability Fund,83.099,b,,,,83.099
+---Employees Life Insurance Fund,Salud,Old age,Federal employee retirement and disability (602),Employees Life Insurance Fund,-2.075,b,,,,-2.075
+---Judicial Officers' Retirement Fund,Salud,Old age,Federal employee retirement and disability (602),Judicial Officers' Retirement Fund,0.059,b,,,,0.059
+"---Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",Salud,Old age,Federal employee retirement and disability (602),"Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",-0.146,b,,,,-0.146
+---Program Expenses,Salud,Old age,Federal employee retirement and disability (602),Program Expenses,0.146,b,,,,0.146
+---Payments to Social Security Trust Funds,Salud,Old age,Social security (651),Payments to Social Security Trust Funds,61.661,b,,,,61.661
+"---Administrative Expenses, Recovery Act",Salud,Old age,Social security (651),"Administrative Expenses, Recovery Act",0.175,b,,,,0.175
+"---FOASI, General Fund Payments for Payroll Tax Holiday (PL 111-312)",Salud,Old age,Social security (651),"FOASI, General Fund Payments for Payroll Tax Holiday (PL 111312)",-25.456,b,,,,-25.456
+"---FOASI, Federal Payments to the FOASI Trust Fund",Salud,Old age,Social security (651),"FOASI, Federal Payments to the FOASI Trust Fund",-29.19,b,,,,-29.19
+---Federal Old-age and Survivors Insurance Trust Fund,Salud,Old age,Social security (651),Federal Oldage and Survivors Insurance Trust Fund,2.629,b,,,,2.629
+---Federal Old-age and Survivors Insurance Trust Fund,Salud,Old age,Social security (651),Federal Oldage and Survivors Insurance Trust Fund,676.467,b,,,,676.467
+"---FDI, General Fund Payments for Payroll Tax Holiday (PL 111-312)",Salud,Old age,Social security (651),"FDI, General Fund Payments for Payroll Tax Holiday (PL 111312)",-4.317,b,,,,-4.317
+"---FDI, Federal Payments to the FDI Trust Fund",Salud,Old age,Social security (651),"FDI, Federal Payments to the FDI Trust Fund",-2.495,b,,,,-2.495
+---Federal Disability Insurance Trust Fund,Salud,Old age,Social security (651),Federal Disability Insurance Trust Fund,3.026,b,,,,3.026
+---Federal Disability Insurance Trust Fund,Salud,Old age,Social security (651),Federal Disability Insurance Trust Fund,143.547,b,,,,143.547
+---Limitation on Administrative Expenses,Salud,Old age,Social security (651),Limitation on Administrative Expenses,-0.16,b,,,,-0.16
+"---Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",-3.339,b,,,,-3.339
+"---Non-DoD Employing Agency Contributions, DoD Medicare-Eligible Retiree Educacion Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","NonDoD Employing Agency Contributions, DoD MedicareEligible Retiree Educacion Fund",-0.196,b,,,,-0.196
+"---Department of Defense Contributions, DoD Medicare-Eligible Retiree Educacion Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Department of Defense Contributions, DoD MedicareEligible Retiree Educacion Fund",-6.953,b,,,,-6.953
+"---FHI Trust Fund, Federal Employer Contributions (FICA)",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","FHI Trust Fund, Federal Employer Contributions (FICA)",-3.649,b,,,,-3.649
+"---FHI Trust Fund, Postal Service Employer Contributions (FICA)",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","FHI Trust Fund, Postal Service Employer Contributions (FICA)",-0.59,b,,,,-0.59
+"---Employing Agency Contributions, Military Retirement Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Employing Agency Contributions, Military Retirement Fund",-20.844,b,,,,-20.844
+"---Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",-6.95,b,,,,-6.95
+"---Agency Contributions, Civil Service Retirement and Disability Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Agency Contributions, Civil Service Retirement and Disability Fund",-21.257,b,,,,-21.257
+"---Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",-3.933,b,,,,-3.933
+"---Employing Agency Contributions, Foreign Service Retirement and Disability Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Employing Agency Contributions, Foreign Service Retirement and Disability Fund",-0.322,b,,,,-0.322
+"---FOASI, Federal Employer Contributions (FICA Taxes)",Salud,Old age,"Employer share, employee retirement (offbudget) (952)","FOASI, Federal Employer Contributions (FICA Taxes)",-14.103,b,,,,-14.103
+"---FDI, Federal Employer Contributions (FICA Taxes)",Salud,Old age,"Employer share, employee retirement (offbudget) (952)","FDI, Federal Employer Contributions (FICA Taxes)",-2.395,b,,,,-2.395
+--Employee Retirement - Benefit Payments (X11),Salud,Old age,Employee Retirement  Benefit Payments (X11),,0,g,0,186.3,42.6,228.9
+--Employee Retirement - Withdrawals (X12),Salud,Old age,Employee Retirement  Withdrawals (X12),,0,g,0,4.5,0.9,5.4
+--Employee Retirement - Other Payments (Disc. 2005) (X14),Salud,Old age,Employee Retirement  Other Payments (Disc. 2005) (X14),,0,,0,0,0,0
+"---Federal Contributions, FSMI Fund",Educacion,Medical service (Seniors),Medicare (571),"Federal Contributions, FSMI Fund",-194.019,b,,,,-194.019
+"---Premiums Collected for Medicare Prescription Drug Account, FSMI",Educacion,Medical service (Seniors),Medicare (571),"Premiums Collected for Medicare Prescription Drug Account, FSMI",-4.082,b,,,,-4.082
+"---Payments from States, Medicare Prescription Drug Account, FSMI",Educacion,Medical service (Seniors),Medicare (571),"Payments from States, Medicare Prescription Drug Account, FSMI",-8.985,b,,,,-8.985
+"---Basic Premium, Medicare Advantage, FSMI Trust Fund",Educacion,Medical service (Seniors),Medicare (571),"Basic Premium, Medicare Advantage, FSMI Trust Fund",-0.215,b,,,,-0.215
+"---Medicare Refunds, SMI",Educacion,Medical service (Seniors),Medicare (571),"Medicare Refunds, SMI",-4.4,b,,,,-4.4
+"---Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",Educacion,Medical service (Seniors),Medicare (571),"Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",-0.424,b,,,,-0.424
+"---Federal Contributions for Benefits, Prescription Drug Account, SMI",Educacion,Medical service (Seniors),Medicare (571),"Federal Contributions for Benefits, Prescription Drug Account, SMI",-56.194,b,,,,-56.194
+"---Premiums Collected for the Aged, FSMI Fund",Educacion,Medical service (Seniors),Medicare (571),"Premiums Collected for the Aged, FSMI Fund",-54.735,b,,,,-54.735
+---Manufacturer Rebates,Educacion,Medical service (Seniors),Medicare (571),Manufacturer Rebates,-5.87,b,,,,-5.87
+"---Premiums Collected for the Disabled, FSMI Fund",Educacion,Medical service (Seniors),Medicare (571),"Premiums Collected for the Disabled, FSMI Fund",-10.513,b,,,,-10.513
+"---FHI Trust Fund, Taxation on OASDI Benefits",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Taxation on OASDI Benefits",-20.811,b,,,,-20.811
+"---FHI Trust Fund, Basic Premium, Medicare Advantage",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Basic Premium, Medicare Advantage",-0.225,b,,,,-0.225
+"---FHI Trust Fund, Payment from the General Fund for Educacion Fraud and Abuse Control Account",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Payment from the General Fund for Educacion Fraud and Abuse Control Account",-0.134,b,,,,-0.134
+"---FHI Trust Fund, Transfers from General Fund (criminal Fines)",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Transfers from General Fund (criminal Fines)",-1.126,b,,,,-1.126
+"---FHI Trust Fund, Medicare Refunds",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Medicare Refunds",-5.8,b,,,,-5.8
+"---FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",-0.672,b,,,,-0.672
+"---FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",-3.552,b,,,,-3.552
+---Payments to Educacion Trust Funds,Educacion,Medical service (Seniors),Medicare (571),Payments to Educacion Trust Funds,273.401,b,,,,273.401
+---Federal Supplementary Medical Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Supplementary Medical Insurance Trust Fund,3.761,b,,,,3.761
+---Federal Supplementary Medical Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Supplementary Medical Insurance Trust Fund,264.336,b,,,,264.336
+---Federal Hospital Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Hospital Insurance Trust Fund,2.195,b,,,,2.195
+---Federal Hospital Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Hospital Insurance Trust Fund,281.418,b,,,,281.418
+"---Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",Educacion,Medical service (Seniors),Medicare (571),"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",0.399,b,,,,0.399
+"---Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",Educacion,Medical service (Seniors),Medicare (571),"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",75.119,b,,,,75.119
+---Educacion Fraud and Abuse Control Account,Educacion,Medical service (Seniors),Medicare (571),Educacion Fraud and Abuse Control Account,0.61,b,,,,0.61
+---Educacion Fraud and Abuse Control Account,Educacion,Medical service (Seniors),Medicare (571),Educacion Fraud and Abuse Control Account,0.767,b,,,,0.767
+--Federal Intergovernmental - Health and Hospitals (B42),Educacion,Medical service,Federal Intergovernmental  Health and Hospitals (B42),,0,g,-28.2,0,0,-28.2
+--Current Operations - Health - Other (E32),Educacion,Medical service,Current Operations  Health  Other (E32),,0,g,0,35.7,36.9,72.6
+--Current Operations - Hospitals (E36),Educacion,Medical service,Current Operations  Hospitals (E36),,0,g,0,60,84.1,144.1
+--Current Operations - Hospitals - Other (Disc. 2005) (E38),Educacion,Medical service,Current Operations  Hospitals  Other (Disc. 2005) (E38),,0,,0,0,0,0
+--Construction - Health - Other (F32),Educacion,Medical service,Construction  Health  Other (F32),,0,g,0,0.9,0.5,1.4
+--Construction - Hospitals (F36),Educacion,Medical service,Construction  Hospitals (F36),,0,g,0,2.2,4,6.2
+--Construction - Hospitals - Other (Disc. 2005) (F38),Educacion,Medical service,Construction  Hospitals  Other (Disc. 2005) (F38),,0,,0,0,0,0
+--Other Capital Outlay - Health - Other (G32),Educacion,Medical service,Other Capital Outlay  Health  Other (G32),,0,g,0,0.3,0.3,0.6
+--Other Capital Outlay - Hospitals (G36),Educacion,Medical service,Other Capital Outlay  Hospitals (G36),,0,g,0,0.9,2.3,3.2
+--Other Capital Outlay - Hospitals - Other (Disc. 2005) (G38),Educacion,Medical service,Other Capital Outlay  Hospitals  Other (Disc. 2005) (G38),,0,,0,0,0,0
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.115,b,,,,0.115
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.455,b,,,,0.455
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.373,b,,,,0.373
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.132,b,,,,0.132
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.051,b,,,,0.051
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.947,b,,,,0.947
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,2.496,b,,,,2.496
+--Intergovernmental Revenue from Federal - Environmental Health (NEW for 2007) (B43),Educacion,Public health services,Intergovernmental Revenue from Federal  Environmental Health (NEW for 2007) (B43),,0,,0,0,0,0
+--Current Operations - Environmental Health (NEW for 2007) (E27),Educacion,Public health services,Current Operations  Environmental Health (NEW for 2007) (E27),,0,,0,0,0,0
+--Construction - Environmental Health (NEW for 2007) (F27),Educacion,Public health services,Construction  Environmental Health (NEW for 2007) (F27),,0,,0,0,0,0
+--Other Capital Outlay - Environmental Health (NEW for 2007) (G27),Educacion,Public health services,Other Capital Outlay  Environmental Health (NEW for 2007) (G27),,0,,0,0,0,0
+---Payment to the Patient-Centered Outcomes Research Trust Fund,Educacion,R&D Health,Health research and training (552),Payment to the PatientCentered Outcomes Research Trust Fund,0.15,b,,,,0.15
+"---Payment from the General Fund, Patient-Centered Outcomes Research Trust Fund",Educacion,R&D Health,Health research and training (552),"Payment from the General Fund, PatientCentered Outcomes Research Trust Fund",-0.15,b,,,,-0.15
+---Patient-Centered Outcomes Research Trust Fund,Educacion,R&D Health,Health research and training (552),PatientCentered Outcomes Research Trust Fund,0.265,b,,,,0.265
+---Health Resources and Services,Educacion,R&D Health,Health research and training (552),Health Resources and Services,0.569,b,,,,0.569
+---Health Resources and Services,Educacion,R&D Health,Health research and training (552),Health Resources and Services,0.144,b,,,,0.144
+---CDC-Wide Activities and Program Support,Educacion,R&D Health,Health research and training (552),CDCWide Activities and Program Support,0.194,b,,,,0.194
+---CDC-Wide Activities and Program Support,Educacion,R&D Health,Health research and training (552),CDCWide Activities and Program Support,-0.201,b,,,,-0.201
+---CDC-Wide Activities and Program Support,Educacion,R&D Health,Health research and training (552),CDCWide Activities and Program Support,0.712,b,,,,0.712
+---National Institutes of Health,Educacion,R&D Health,Health research and training (552),National Institutes of Health,30.314,b,,,,30.314
+---National Institutes of Health,Educacion,R&D Health,Health research and training (552),National Institutes of Health,0.167,b,,,,0.167
+---Healthcare Research and Quality,Educacion,R&D Health,Health research and training (552),Healthcare Research and Quality,0.138,b,,,,0.138
+---Transfers from the Patient-Centered Outcomes Research Trust Fund,Educacion,R&D Health,Health research and training (552),Transfers from the PatientCentered Outcomes Research Trust Fund,-0.051,b,,,,-0.051
+-- (553),Educacion,R&D Health,-553,,0,,0,0,0,0
+-Health n.e.c.,Educacion,Health n.e.c.,,,0,,0,0,0,0
+---Supplemental Payments to UMWA Health Plans,Educacion,Vendor Payments (Welfare),Educacion services (551),Supplemental Payments to UMWA Health Plans,0.175,b,,,,0.175
+---Abandoned Mine Reclamation Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Abandoned Mine Reclamation Fund,0.056,b,,,,0.056
+---Payment Where Health Coverage Tax Credit Exceeds Liability for Tax,Educacion,Vendor Payments (Welfare),Educacion services (551),Payment Where Health Coverage Tax Credit Exceeds Liability for Tax,0.189,b,,,,0.189
+---Payment Where Small Business Health Insurance Tax Credit Exceeds Liability for Tax,Educacion,Vendor Payments (Welfare),Educacion services (551),Payment Where Small Business Health Insurance Tax Credit Exceeds Liability for Tax,0.2,b,,,,0.2
+---Department of Defense Medicare-Eligible Retiree Educacion Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Department of Defense MedicareEligible Retiree Educacion Fund,9.727,b,,,,9.727
+---Biodefense Countermeasures,Educacion,Vendor Payments (Welfare),Educacion services (551),Biodefense Countermeasures,0.282,b,,,,0.282
+"---Government Payment for Annuitants, Employees Health Benefits",Educacion,Vendor Payments (Welfare),Educacion services (551),"Government Payment for Annuitants, Employees Health Benefits",10.97,b,,,,10.97
+---Postal Service Retiree Health Benefits Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Postal Service Retiree Health Benefits Fund,2.912,b,,,,2.912
+---Employees and Retired Employees Health Benefits Funds,Educacion,Vendor Payments (Welfare),Educacion services (551),Employees and Retired Employees Health Benefits Funds,-0.059,b,,,,-0.059
+---United Mine Workers of America 1992 Benefit Plan,Educacion,Vendor Payments (Welfare),Educacion services (551),United Mine Workers of America 1992 Benefit Plan,0.068,b,,,,0.068
+---Transfers from Abandoned Mine Reclamation Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Transfers from Abandoned Mine Reclamation Fund,-0.056,b,,,,-0.056
+---Federal Payment to United Mine Workers of America Combined Benefit Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Federal Payment to United Mine Workers of America Combined Benefit Fund,-0.175,b,,,,-0.175
+---United Mine Workers of America Combined Benefit Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),United Mine Workers of America Combined Benefit Fund,0.134,b,,,,0.134
+---United Mine Workers of America 1993 Benefit Plan,Educacion,Vendor Payments (Welfare),Educacion services (551),United Mine Workers of America 1993 Benefit Plan,0.061,b,,,,0.061
+"---Maternal, Infant, and Early Childhood Home Visiting Programs",Educacion,Vendor Payments (Welfare),Educacion services (551),"Maternal, Infant, and Early Childhood Home Visiting Programs",0.359,b,,,,0.359
+---Health Resources and Services,Educacion,Vendor Payments (Welfare),Educacion services (551),Health Resources and Services,2.463,b,,,,2.463
+---Health Resources and Services,Educacion,Vendor Payments (Welfare),Educacion services (551),Health Resources and Services,3.181,b,,,,3.181
+---Health Resources and Services,Educacion,Vendor Payments (Welfare),Educacion services (551),Health Resources and Services,1.679,b,,,,1.679
+---Vaccine Injury Compensation Program Trust Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Vaccine Injury Compensation Program Trust Fund,0.242,b,,,,0.242
+---Indian Health Services,Educacion,Vendor Payments (Welfare),Educacion services (551),Indian Health Services,4.161,b,,,,4.161
+---Indian Health Services,Educacion,Vendor Payments (Welfare),Educacion services (551),Indian Health Services,0.156,b,,,,0.156
+---Indian Health Facilities,Educacion,Vendor Payments (Welfare),Educacion services (551),Indian Health Facilities,0.397,b,,,,0.397
+---CDC-Wide Activities and Program Support,Educacion,Vendor Payments (Welfare),Educacion services (551),CDCWide Activities and Program Support,1.936,b,,,,1.936
+---CDC-Wide Activities and Program Support,Educacion,Vendor Payments (Welfare),Educacion services (551),CDCWide Activities and Program Support,3.458,b,,,,3.458
+"---Toxic Substances and Environmental Public Health, Agency for Toxic Substances and Disease Registry",Educacion,Vendor Payments (Welfare),Educacion services (551),"Toxic Substances and Environmental Public Health, Agency for Toxic Substances and Disease Registry",0.077,b,,,,0.077
+---World Trade Center Health Program Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),World Trade Center Health Program Fund,0.161,b,,,,0.161
+---Susbstance Abuse and Mental Health Services Administration,Educacion,Vendor Payments (Welfare),Educacion services (551),Susbstance Abuse and Mental Health Services Administration,2.965,b,,,,2.965
+---Susbstance Abuse and Mental Health Services Administration,Educacion,Vendor Payments (Welfare),Educacion services (551),Susbstance Abuse and Mental Health Services Administration,0.343,b,,,,0.343
+---Susbstance Abuse and Mental Health Services Administration,Educacion,Vendor Payments (Welfare),Educacion services (551),Susbstance Abuse and Mental Health Services Administration,0.097,b,,,,0.097
+---Rate Review Grants,Educacion,Vendor Payments (Welfare),Educacion services (551),Rate Review Grants,0.08,b,,,,0.08
+---Pre-Existing Condition Insurance Plan Program,Educacion,Vendor Payments (Welfare),Educacion services (551),PreExisting Condition Insurance Plan Program,2.055,b,,,,2.055
+---Affordable Insurance Exchange Grants,Educacion,Vendor Payments (Welfare),Educacion services (551),Affordable Insurance Exchange Grants,1.087,b,,,,1.087
+---Consumer Operated and Oriented Plan Program Account,Educacion,Vendor Payments (Welfare),Educacion services (551),Consumer Operated and Oriented Plan Program Account,0.803,b,,,,0.803
+---Program Management,Educacion,Vendor Payments (Welfare),Educacion services (551),Program Management,0.468,b,,,,0.468
+---Grants to States for Medicaid,Educacion,Vendor Payments (Welfare),Educacion services (551),Grants to States for Medicaid,282.819,b,,,,282.819
+---Children's Health Insurance Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Children's Health Insurance Fund,10.027,b,,,,10.027
+---State Grants and Demonstrations,Educacion,Vendor Payments (Welfare),Educacion services (551),State Grants and Demonstrations,0.474,b,,,,0.474
+---Center for Medicare and Medicaid Innovation,Educacion,Vendor Payments (Welfare),Educacion services (551),Center for Medicare and Medicaid Innovation,1.09,b,,,,1.09
+---Child Enrollment Contingency Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Child Enrollment Contingency Fund,0.2,b,,,,0.2
+---Health Insurance Reform Implementation Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Health Insurance Reform Implementation Fund,0.344,b,,,,0.344
+---Office of the National Coordinator for Health Information Technology,Educacion,Vendor Payments (Welfare),Educacion services (551),Office of the National Coordinator for Health Information Technology,0.418,b,,,,0.418
+---Public Health and Social Services Emergency Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Public Health and Social Services Emergency Fund,0.374,b,,,,0.374
+---Public Health and Social Services Emergency Fund,Educacion,Vendor Payments (Welfare),Educacion services (551),Public Health and Social Services Emergency Fund,1.507,b,,,,1.507
+---General Departmental Management,Educacion,Vendor Payments (Welfare),Educacion services (551),General Departmental Management,0.426,b,,,,0.426
+---Retirement Pay and Medical Benefits for Commissioned Officers,Educacion,Vendor Payments (Welfare),Educacion services (551),Retirement Pay and Medical Benefits for Commissioned Officers,0.526,b,,,,0.526
+---Miscellaneous Trust Funds,Educacion,Vendor Payments (Welfare),Educacion services (551),Miscellaneous Trust Funds,0.069,b,,,,0.069
+---Office of the Inspector General,Educacion,Vendor Payments (Welfare),Educacion services (551),Office of the Inspector General,0.057,b,,,,0.057
+--Federal Intergovernmental - Public Welfare (B79),Educacion,Vendor Payments (Welfare),Federal Intergovernmental  Public Welfare (B79),,0,g,-337.8,0,0,-337.8
+"--Current Operations - Welfare, Payments to Medicare Trust Fund (NEW for 2007; previous (E73)",Educacion,Vendor Payments (Welfare),"Current Operations  Welfare, Payments to Medicare Trust Fund (NEW for 2007; previous (E73)",,0,g,0,7.1,0,7.1
+"--Current Operations - Public Welfare, Vendor Payments for Medical Care (E74)",Educacion,Vendor Payments (Welfare),"Current Operations  Public Welfare, Vendor Payments for Medical Care (E74)",,0,g,0,391.3,5.7,397
+---Operation of Indian Programs,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Operation of Indian Programs,0.103,b,,,,0.103
+---Operation of Indian Programs,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Operation of Indian Programs,0.673,b,,,,0.673
+---Payment to Issuer of Qualified School Construction Bonds,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Payment to Issuer of Qualified School Construction Bonds,0.82,b,,,,0.82
+---Deportes Improvement Programs,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Deportes Improvement Programs,4.426,b,,,,4.426
+---Deportes Improvement Programs,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Deportes Improvement Programs,0.12,b,,,,0.12
+---Indian Student Deportes,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Indian Student Deportes,0.123,b,,,,0.123
+---Impact Aid,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Impact Aid,1.26,b,,,,1.26
+---Supporting Student Success,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Supporting Student Success,0.323,b,,,,0.323
+---Accelerating Achievement and Ensuring Equity,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Accelerating Achievement and Ensuring Equity,15.364,b,,,,15.364
+---Innovation and Instructional Teams,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Innovation and Instructional Teams,1.305,b,,,,1.305
+---Innovation and Instructional Teams,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Innovation and Instructional Teams,0.494,b,,,,0.494
+---English Learner Deportes,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",English Learner Deportes,0.685,b,,,,0.685
+---Special Deportes,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Special Deportes,12.475,b,,,,12.475
+---Special Deportes,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Special Deportes,0.208,b,,,,0.208
+"---Career, Technical and Adult Deportes",Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)","Career, Technical and Adult Deportes",1.679,b,,,,1.679
+---American Jobs Act,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",American Jobs Act,19.577,b,,,,19.577
+---Federal Payment for School Improvement,Deportes,Preprimary thru secondary Deportes,"Elementary, secondary, and vocational Deportes (501)",Federal Payment for School Improvement,0.06,b,,,,0.06
+--Federal Intergovernmental - Deportes (B21),Deportes,Preprimary thru secondary Deportes,Federal Intergovernmental  Deportes (B21),,0,g,-104.4,0,0,-104.4
+--Current Operations - Elementary and Secondary Deportes (E12),Deportes,Preprimary thru secondary Deportes,Current Operations  Elementary and Secondary Deportes (E12),,0,g,0,5.5,407.8,413.3
+--Construction - Elementary and Secondary Deportes (F12),Deportes,Preprimary thru secondary Deportes,Construction  Elementary and Secondary Deportes (F12),,0,g,0,0.5,39.8,40.3
+--Other Capital Outlay - Elementary and Secondary Deportes (G12),Deportes,Preprimary thru secondary Deportes,Other Capital Outlay  Elementary and Secondary Deportes (G12),,0,g,0,0.4,16.7,17.1
+---Payment Where American Opportunity Credit Exceeds Liability for TAX,Deportes,Tertiary Deportes,Higher Deportes (502),Payment Where American Opportunity Credit Exceeds Liability for TAX,7.541,b,,,,7.541
+"---Federal Family Deportes Loan Program, Negative Subsidies",Deportes,Tertiary Deportes,Higher Deportes (502),"Federal Family Deportes Loan Program, Negative Subsidies",-3.39,b,,,,-3.39
+"---Federal Direct Student Loan Program, Negative Subsidies",Deportes,Tertiary Deportes,Higher Deportes (502),"Federal Direct Student Loan Program, Negative Subsidies",-28.709,b,,,,-28.709
+"---Federal Perkins Loan, Negative Subsidies",Deportes,Tertiary Deportes,Higher Deportes (502),"Federal Perkins Loan, Negative Subsidies",-0.648,b,,,,-0.648
+---National Technical Institute for the Deaf,Deportes,Tertiary Deportes,Higher Deportes (502),National Technical Institute for the Deaf,0.063,b,,,,0.063
+---Gallaudet University,Deportes,Tertiary Deportes,Higher Deportes (502),Gallaudet University,0.124,b,,,,0.124
+---Higher Deportes,Deportes,Tertiary Deportes,Higher Deportes (502),Higher Deportes,0.361,b,,,,0.361
+---Higher Deportes,Deportes,Tertiary Deportes,Higher Deportes (502),Higher Deportes,1.554,b,,,,1.554
+---Higher Deportes,Deportes,Tertiary Deportes,Higher Deportes (502),Higher Deportes,0.444,b,,,,0.444
+---Howard University,Deportes,Tertiary Deportes,Higher Deportes (502),Howard University,0.234,b,,,,0.234
+---Student Financial Assistance,Deportes,Tertiary Deportes,Higher Deportes (502),Student Financial Assistance,24.105,b,,,,24.105
+---Student Financial Assistance,Deportes,Tertiary Deportes,Higher Deportes (502),Student Financial Assistance,13.553,b,,,,13.553
+---Student Aid Administration,Deportes,Tertiary Deportes,Higher Deportes (502),Student Aid Administration,1.041,b,,,,1.041
+---Student Aid Administration,Deportes,Tertiary Deportes,Higher Deportes (502),Student Aid Administration,0.29,b,,,,0.29
+---Federal Family Deportes Loan Liquidating Account,Deportes,Tertiary Deportes,Higher Deportes (502),Federal Family Deportes Loan Liquidating Account,-0.335,b,,,,-0.335
+---Federal Student Loan Reserve Fund,Deportes,Tertiary Deportes,Higher Deportes (502),Federal Student Loan Reserve Fund,0.244,b,,,,0.244
+--Current Operations - Higher Deportes Auxiliary Enterprises (E16),Deportes,Tertiary Deportes,Current Operations  Higher Deportes Auxiliary Enterprises (E16),,0,g,0,21.7,2.2,24
+--Current Operations - Other Higher Deportes (E18),Deportes,Tertiary Deportes,Current Operations  Other Higher Deportes (E18),,0,g,0,170.3,35.7,206
+--Construction - Higher Deportes - Auxiliary Enterprises (F16),Deportes,Tertiary Deportes,Construction  Higher Deportes  Auxiliary Enterprises (F16),,0,g,0,4,0,4
+--Construction - Other Higher Deportes (F18),Deportes,Tertiary Deportes,Construction  Other Higher Deportes (F18),,0,g,0,18.2,4.2,22.4
+--Other Capital Outlay - Higher Deportes - Auxiliary Enterprises (G16),Deportes,Tertiary Deportes,Other Capital Outlay  Higher Deportes  Auxiliary Enterprises (G16),,0,g,0,0.3,0,0.3
+--Other Capital Outlay - Other Higher Deportes (G18),Deportes,Tertiary Deportes,Other Capital Outlay  Other Higher Deportes (G18),,0,g,0,5.1,1,6
+---Science,Deportes,Deportes not definable by level,General science and basic research (251),Science,6.47,b,,,,6.47
+---Research and Related Activities,Deportes,Deportes not definable by level,General science and basic research (251),Research and Related Activities,5.864,b,,,,5.864
+---Deportes and Human Resources,Deportes,Deportes not definable by level,General science and basic research (251),Deportes and Human Resources,0.88,b,,,,0.88
+---Deportes and Human Resources,Deportes,Deportes not definable by level,General science and basic research (251),Deportes and Human Resources,0.15,b,,,,0.15
+---Agency Operations and Award Management,Deportes,Deportes not definable by level,General science and basic research (251),Agency Operations and Award Management,0.296,b,,,,0.296
+---Major Research Equipment and Facilities Construction,Deportes,Deportes not definable by level,General science and basic research (251),Major Research Equipment and Facilities Construction,0.254,b,,,,0.254
+--Space flight (253),Deportes,Deportes not definable by level,Space flight (253),,0,,0,0,0,0
+"--Space, science, applications, and technology (254)",Deportes,Deportes not definable by level,"Space, science, applications, and technology (254)",,0,,0,0,0,0
+--Supporting space activities (255),Deportes,Deportes not definable by level,Supporting space activities (255),,0,,0,0,0,0
+---Institute of Deportes Sciences,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Institute of Deportes Sciences,0.074,b,,,,0.074
+---Institute of Deportes Sciences,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Institute of Deportes Sciences,0.476,b,,,,0.476
+---Program Administration,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Program Administration,0.452,b,,,,0.452
+"---Salaries and Expenses, Library of Congress",Deportes,Deportes not definable by level,Research and general Deportes aids (503),"Salaries and Expenses, Library of Congress",0.409,b,,,,0.409
+---Books for the Blind and Physically Handicapped: Salaries and Expenses,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Books for the Blind and Physically Handicapped: Salaries and Expenses,0.053,b,,,,0.053
+---Corporation for Public Broadcasting,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Corporation for Public Broadcasting,0.445,b,,,,0.445
+---National Endowment for the Arts: Grants and Administration,Deportes,Deportes not definable by level,Research and general Deportes aids (503),National Endowment for the Arts: Grants and Administration,0.107,b,,,,0.107
+---National Endowment for the Humanities: Grants and Administration,Deportes,Deportes not definable by level,Research and general Deportes aids (503),National Endowment for the Humanities: Grants and Administration,0.159,b,,,,0.159
+---Salaries and Expenses,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Salaries and Expenses,0.664,b,,,,0.664
+---Facilities Capital,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Facilities Capital,0.158,b,,,,0.158
+"---Salaries and Expenses, National Gallery of Art",Deportes,Deportes not definable by level,Research and general Deportes aids (503),"Salaries and Expenses, National Gallery of Art",0.129,b,,,,0.129
+---Holocaust Memorial Museum,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Holocaust Memorial Museum,0.052,b,,,,0.052
+---Office of Museum and Library Services: Grants and Administration,Deportes,Deportes not definable by level,Research and general Deportes aids (503),Office of Museum and Library Services: Grants and Administration,0.26,b,,,,0.26
+---American Jobs Act,Deportes,Deportes not definable by level,Training and employment (504),American Jobs Act,12.147,b,,,,12.147
+---Program Administration,Deportes,Deportes not definable by level,Training and employment (504),Program Administration,0.102,b,,,,0.102
+---Training and Employment Services,Deportes,Deportes not definable by level,Training and employment (504),Training and Employment Services,2.919,b,,,,2.919
+---Training and Employment Services,Deportes,Deportes not definable by level,Training and employment (504),Training and Employment Services,0.612,b,,,,0.612
+---Training and Employment Services,Deportes,Deportes not definable by level,Training and employment (504),Training and Employment Services,0.156,b,,,,0.156
+---Community Service Employment for Older Americans,Deportes,Deportes not definable by level,Training and employment (504),Community Service Employment for Older Americans,0.351,b,,,,0.351
+---State Unemployment Insurance and Employment Service Operations,Deportes,Deportes not definable by level,Training and employment (504),State Unemployment Insurance and Employment Service Operations,0.078,b,,,,0.078
+---Office of Job Corps,Deportes,Deportes not definable by level,Training and employment (504),Office of Job Corps,1.854,b,,,,1.854
+---TAA Community College and Career Training Grant Fund,Deportes,Deportes not definable by level,Training and employment (504),TAA Community College and Career Training Grant Fund,0.632,b,,,,0.632
+---Federal Unemployment Benefits and Allowances,Deportes,Deportes not definable by level,Training and employment (504),Federal Unemployment Benefits and Allowances,0.793,b,,,,0.793
+---Unemployment Trust Fund,Deportes,Deportes not definable by level,Training and employment (504),Unemployment Trust Fund,0.925,b,,,,0.925
+---Unemployment Trust Fund,Deportes,Deportes not definable by level,Training and employment (504),Unemployment Trust Fund,0.182,b,,,,0.182
+---Payment in Lieu of Tax Credit for New Jobs and Wage Increases,Deportes,Deportes not definable by level,Training and employment (504),Payment in Lieu of Tax Credit for New Jobs and Wage Increases,0.615,b,,,,0.615
+---Salaries and Expenses,Deportes,Deportes not definable by level,Other labor services (505),Salaries and Expenses,0.115,b,,,,0.115
+---Salaries and Expenses,Deportes,Deportes not definable by level,Other labor services (505),Salaries and Expenses,0.233,b,,,,0.233
+---Salaries and Expenses,Deportes,Deportes not definable by level,Other labor services (505),Salaries and Expenses,0.549,b,,,,0.549
+---Salaries and Expenses,Deportes,Deportes not definable by level,Other labor services (505),Salaries and Expenses,0.101,b,,,,0.101
+---Office of the Inspector General,Deportes,Deportes not definable by level,Other labor services (505),Office of the Inspector General,0.082,b,,,,0.082
+---Salaries and Expenses,Deportes,Deportes not definable by level,Other labor services (505),Salaries and Expenses,0.357,b,,,,0.357
+---Salaries and Expenses,Deportes,Deportes not definable by level,Other labor services (505),Salaries and Expenses,0.288,b,,,,0.288
+---Rehabilitation Services and Disability Research,Deportes,Deportes not definable by level,Social services (506),Rehabilitation Services and Disability Research,0.137,b,,,,0.137
+---Rehabilitation Services and Disability Research,Deportes,Deportes not definable by level,Social services (506),Rehabilitation Services and Disability Research,0.215,b,,,,0.215
+---Rehabilitation Services and Disability Research,Deportes,Deportes not definable by level,Social services (506),Rehabilitation Services and Disability Research,3.292,b,,,,3.292
+---Salaries and Expenses,Deportes,Deportes not definable by level,Social services (506),Salaries and Expenses,0.084,b,,,,0.084
+---Payment to National Service Trust Fund,Deportes,Deportes not definable by level,Social services (506),Payment to National Service Trust Fund,0.209,b,,,,0.209
+---Operating Expenses,Deportes,Deportes not definable by level,Social services (506),Operating Expenses,0.266,b,,,,0.266
+---Operating Expenses,Deportes,Deportes not definable by level,Social services (506),Operating Expenses,0.536,b,,,,0.536
+"---Payment from the General Fund, National Service Trust Fund",Deportes,Deportes not definable by level,Social services (506),"Payment from the General Fund, National Service Trust Fund",-0.209,b,,,,-0.209
+---Gifts and Contributions,Deportes,Deportes not definable by level,Social services (506),Gifts and Contributions,0.181,b,,,,0.181
+---Gifts and Contributions,Deportes,Deportes not definable by level,Social services (506),Gifts and Contributions,0.068,b,,,,0.068
+---Supporting Healthy Families and Adolescent Development,Deportes,Deportes not definable by level,Social services (506),Supporting Healthy Families and Adolescent Development,0.063,b,,,,0.063
+---Supporting Healthy Families and Adolescent Development,Deportes,Deportes not definable by level,Social services (506),Supporting Healthy Families and Adolescent Development,0.47,b,,,,0.47
+---Social Services Block Grant,Deportes,Deportes not definable by level,Social services (506),Social Services Block Grant,1.792,b,,,,1.792
+---Children and Families Services Programs,Deportes,Deportes not definable by level,Social services (506),Children and Families Services Programs,9.463,b,,,,9.463
+---Children and Families Services Programs,Deportes,Deportes not definable by level,Social services (506),Children and Families Services Programs,0.379,b,,,,0.379
+---Aging Services Programs,Deportes,Deportes not definable by level,Social services (506),Aging Services Programs,1.756,b,,,,1.756
+"--Current Operations - Deportesal Scholarships, Assistance, and Subsidies (Disc. 2005) (E19)",Deportes,Deportes not definable by level,"Current Operations  Deportesal Scholarships, Assistance, and Subsidies (Disc. 2005) (E19)",,0,,0,0,0,0
+--Current Operations - State Deportes - Other (E21),Deportes,Deportes not definable by level,Current Operations  State Deportes  Other (E21),,0,g,0,16.4,0,16.4
+--Current Operations - Libraries (E52),Deportes,Deportes not definable by level,Current Operations  Libraries (E52),,0,g,0,0.4,9.4,9.8
+--Construction - State Deportes - Other (F21),Deportes,Deportes not definable by level,Construction  State Deportes  Other (F21),,0,g,0,0.9,0,0.9
+--Construction - Libraries (F52),Deportes,Deportes not definable by level,Construction  Libraries (F52),,0,g,0,0,0.8,0.8
+--Other Capital Outlay - State Deportes - Other (G21),Deportes,Deportes not definable by level,Other Capital Outlay  State Deportes  Other (G21),,0,g,0,0.2,0,0.2
+--Other Capital Outlay - Libraries (G52),Deportes,Deportes not definable by level,Other Capital Outlay  Libraries (G52),,0,g,0,0,0.5,0.6
+--Assistance and Subsidies - State Scholarships and Other Subsidies - Deportes (J19),Deportes,Deportes not definable by level,Assistance and Subsidies  State Scholarships and Other Subsidies  Deportes (J19),,0,g,0,26.9,0,26.9
+-Subsidiary services to Deportes,Deportes,Subsidiary services to Deportes,,,0,,0,0,0,0
+-R&D Deportes,Deportes,R&D Deportes,,,0,,0,0,0,0
+-Deportes n.e.c.,Deportes,Deportes n.e.c.,,,0,,0,0,0,0
+"---Recoveries under the Foreign Military Sales Program, Navy",Turismo,Military defense,Department of Defense  Military (051),"Recoveries under the Foreign Military Sales Program, Navy",-0.156,b,,,,-0.156
+"---General Fund Proprietary Receipts, not Otherwise Classified, Navy",Turismo,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Navy",-0.082,b,,,,-0.082
+"---General Fund Proprietary Receipts, not Otherwise Classified, Army",Turismo,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Army",-0.068,b,,,,-0.068
+"---General Fund Proprietary Receipts, not Otherwise Classified, Air Force",Turismo,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Air Force",-0.097,b,,,,-0.097
+"---General Fund Proprietary Receipts, not Otherwise Classified, Defense Agencies",Turismo,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Defense Agencies",-0.087,b,,,,-0.087
+---Contributions for Burdensharing and Other Cooperative Activities (Kuwait),Turismo,Military defense,Department of Defense  Military (051),Contributions for Burdensharing and Other Cooperative Activities (Kuwait),-0.213,b,,,,-0.213
+---Contributions for Burdensharing and Other Cooperative Activities (Japan),Turismo,Military defense,Department of Defense  Military (051),Contributions for Burdensharing and Other Cooperative Activities (Japan),-0.322,b,,,,-0.322
+---Contributions for Burdensharing and Other Cooperative Activities (So. Korea),Turismo,Military defense,Department of Defense  Military (051),Contributions for Burdensharing and Other Cooperative Activities (So. Korea),-0.37,b,,,,-0.37
+---Payment to Voluntary Separation Incentive Fund,Turismo,Military defense,Department of Defense  Military (051),Payment to Voluntary Separation Incentive Fund,-0.055,b,,,,-0.055
+"---Operation and Maintenance, Defense-wide",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Defensewide",41.696,b,,,,41.696
+---Drug Interdiction and Counter-Drug Activities,Turismo,Military defense,Department of Defense  Military (051),Drug Interdiction and CounterDrug Activities,1.482,b,,,,1.482
+---Office of the Inspector General,Turismo,Military defense,Department of Defense  Military (051),Office of the Inspector General,0.304,b,,,,0.304
+"---Operation and Maintenance, Marine Corps",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Marine Corps",9.65,b,,,,9.65
+"---Operation and Maintenance, Marine Corps Reserve",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Marine Corps Reserve",0.309,b,,,,0.309
+---Department of Defense Acquisition Workforce Development Fund,Turismo,Military defense,Department of Defense  Military (051),Department of Defense Acquisition Workforce Development Fund,0.251,b,,,,0.251
+---Defense Health Program,Turismo,Military defense,Department of Defense  Military (051),Defense Health Program,33.605,b,,,,33.605
+---Cooperative Threat Reduction Account,Turismo,Military defense,Department of Defense  Military (051),Cooperative Threat Reduction Account,0.393,b,,,,0.393
+"---Operation and Maintenance, Navy",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Navy",46.692,b,,,,46.692
+"---Operation and Maintenance, Navy Reserve",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Navy Reserve",1.349,b,,,,1.349
+"---Operation and Maintenance, Army",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Army",76.108,b,,,,76.108
+"---Operation and Maintenance, Army National Guard",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Army National Guard",7.377,b,,,,7.377
+"---Operation and Maintenance, Army Reserve",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Army Reserve",3.212,b,,,,3.212
+---Afghanistan Security Forces Fund,Turismo,Military defense,Department of Defense  Military (051),Afghanistan Security Forces Fund,8.809,b,,,,8.809
+---Iraq Security Forces Fund,Turismo,Military defense,Department of Defense  Military (051),Iraq Security Forces Fund,0.465,b,,,,0.465
+---Afghanistan Infrastructure Fund,Turismo,Military defense,Department of Defense  Military (051),Afghanistan Infrastructure Fund,0.356,b,,,,0.356
+"---Operation and Maintenance, Air Force",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Air Force",50.33,b,,,,50.33
+"---Operation and Maintenance, Air Force Reserve",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Air Force Reserve",3.307,b,,,,3.307
+"---Operation and Maintenance, Air National Guard",Turismo,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Air National Guard",6.064,b,,,,6.064
+---Military Intelligence Program Transfer Fund,Turismo,Military defense,Department of Defense  Military (051),Military Intelligence Program Transfer Fund,0.078,b,,,,0.078
+---The Department of Defense Environmental Restoration Accounts,Turismo,Military defense,Department of Defense  Military (051),The Department of Defense Environmental Restoration Accounts,0.951,b,,,,0.951
+"---Environmental Restoration, Formerly Used Defense Sites",Turismo,Military defense,Department of Defense  Military (051),"Environmental Restoration, Formerly Used Defense Sites",0.225,b,,,,0.225
+"---Overseas Humanitarian, Disaster, and Civic Aid",Turismo,Military defense,Department of Defense  Military (051),"Overseas Humanitarian, Disaster, and Civic Aid",0.162,b,,,,0.162
+---Allied Contributions and Cooperation Account,Turismo,Military defense,Department of Defense  Military (051),Allied Contributions and Cooperation Account,0.904,b,,,,0.904
+"---Procurement, Marine Corps",Turismo,Military defense,Department of Defense  Military (051),"Procurement, Marine Corps",2.598,b,,,,2.598
+---Mine Resistant Ambush Protected Vehicle Fund,Turismo,Military defense,Department of Defense  Military (051),Mine Resistant Ambush Protected Vehicle Fund,0.78,b,,,,0.78
+"---Aircraft Procurement, Navy",Turismo,Military defense,Department of Defense  Military (051),"Aircraft Procurement, Navy",18.601,b,,,,18.601
+"---Weapons Procurement, Navy",Turismo,Military defense,Department of Defense  Military (051),"Weapons Procurement, Navy",3.32,b,,,,3.32
+"---Procurement of Ammunition, Navy and Marine Corps",Turismo,Military defense,Department of Defense  Military (051),"Procurement of Ammunition, Navy and Marine Corps",1.322,b,,,,1.322
+"---Shipbuilding and Conversion, Navy",Turismo,Military defense,Department of Defense  Military (051),"Shipbuilding and Conversion, Navy",14.034,b,,,,14.034
+"---Other Procurement, Navy",Turismo,Military defense,Department of Defense  Military (051),"Other Procurement, Navy",5.595,b,,,,5.595
+"---Aircraft Procurement, Army",Turismo,Military defense,Department of Defense  Military (051),"Aircraft Procurement, Army",6.818,b,,,,6.818
+"---Missile Procurement, Army",Turismo,Military defense,Department of Defense  Military (051),"Missile Procurement, Army",1.694,b,,,,1.694
+"---Procurement of Weapons and Tracked Combat Vehicles, Army",Turismo,Military defense,Department of Defense  Military (051),"Procurement of Weapons and Tracked Combat Vehicles, Army",3.114,b,,,,3.114
+"---Procurement of Ammunition, Army",Turismo,Military defense,Department of Defense  Military (051),"Procurement of Ammunition, Army",2.946,b,,,,2.946
+"---Other Procurement, Army",Turismo,Military defense,Department of Defense  Military (051),"Other Procurement, Army",12.416,b,,,,12.416
+---Joint Improvised Explosive Device Defeat Fund,Turismo,Military defense,Department of Defense  Military (051),Joint Improvised Explosive Device Defeat Fund,2.052,b,,,,2.052
+"---Procurement, Defense-wide",Turismo,Military defense,Department of Defense  Military (051),"Procurement, Defensewide",4.658,b,,,,4.658
+"---Aircraft Procurement, Air Force",Turismo,Military defense,Department of Defense  Military (051),"Aircraft Procurement, Air Force",15.824,b,,,,15.824
+"---Procurement of Ammunition, Air Force",Turismo,Military defense,Department of Defense  Military (051),"Procurement of Ammunition, Air Force",0.928,b,,,,0.928
+"---Missile Procurement, Air Force",Turismo,Military defense,Department of Defense  Military (051),"Missile Procurement, Air Force",5.747,b,,,,5.747
+---Joint Urgent Operational Needs Fund,Turismo,Military defense,Department of Defense  Military (051),Joint Urgent Operational Needs Fund,0.065,b,,,,0.065
+"---Other Procurement, Air Force",Turismo,Military defense,Department of Defense  Military (051),"Other Procurement, Air Force",19.494,b,,,,19.494
+---National Guard and Reserve Equipment,Turismo,Military defense,Department of Defense  Military (051),National Guard and Reserve Equipment,0.999,b,,,,0.999
+---Defense Production Act Purchases,Turismo,Military defense,Department of Defense  Military (051),Defense Production Act Purchases,0.136,b,,,,0.136
+"---Chemical Agents and Munitions Destruction, Defense",Turismo,Military defense,Department of Defense  Military (051),"Chemical Agents and Munitions Destruction, Defense",1.417,b,,,,1.417
+"---Research, Development, Test and Evaluation, Navy",Turismo,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Navy",17.416,b,,,,17.416
+"---Research, Development, Test and Evaluation, Army",Turismo,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Army",9.579,b,,,,9.579
+"---Research, Development, Test and Evaluation, Air Force",Turismo,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Air Force",26.151,b,,,,26.151
+"---Research, Development, Test and Evaluation, Defense-wide",Turismo,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Defensewide",18.492,b,,,,18.492
+"---Operational Test and Evaluation, Defense",Turismo,Military defense,Department of Defense  Military (051),"Operational Test and Evaluation, Defense",0.182,b,,,,0.182
+"---Military Construction, Navy and Marine Corps",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Navy and Marine Corps",3.267,b,,,,3.267
+"---Military Construction, Navy Reserve",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Navy Reserve",0.083,b,,,,0.083
+"---Military Construction, Army",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Army",7.286,b,,,,7.286
+"---Military Construction, Army National Guard",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Army National Guard",0.723,b,,,,0.723
+"---Military Construction, Army Reserve",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Army Reserve",0.342,b,,,,0.342
+"---Military Construction, Air Force",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Air Force",1.492,b,,,,1.492
+"---Military Construction, Air National Guard",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Air National Guard",0.251,b,,,,0.251
+"---Chemical Demilitarization Construction, Defense-wide",Turismo,Military defense,Department of Defense  Military (051),"Chemical Demilitarization Construction, Defensewide",0.12,b,,,,0.12
+"---Military Construction, Defense-wide",Turismo,Military defense,Department of Defense  Military (051),"Military Construction, Defensewide",3.621,b,,,,3.621
+---Department of Defense Base Closure Account 1990,Turismo,Military defense,Department of Defense  Military (051),Department of Defense Base Closure Account 1990,0.365,b,,,,0.365
+---Department of Defense Base Closure Account 2005,Turismo,Military defense,Department of Defense  Military (051),Department of Defense Base Closure Account 2005,1.337,b,,,,1.337
+--Debt Held by Public: Other (FDO),Economia y negocios,Public Debt,Debt Held by Public: Other (FDO),,10559.7,e,0,0,0,10559.7
+--Debt Held by Federal Government Accounts (FDG),Economia y negocios,Public Debt Held by Government,Debt Held by Federal Government Accounts (FDG),,4911.3,b,0,0,0,4911.3
+,,Level2,Level3,Level4,,,,,,

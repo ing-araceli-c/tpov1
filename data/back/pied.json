@@ -1,0 +1,220 @@
+{
+    name: 'Enero',
+    id: 'Enero',
+    data: [
+        [
+            'Area 1',
+            0.283245
+        ],
+        [
+            'Area 2',
+            0.554477
+        ],
+        [
+            'Area 3',
+            0.064346
+        ]
+    ]
+},
+{
+    name: 'Febrero',
+    id: 'Febrero',
+    data: [
+        [
+            'Area 3',
+            0.085794
+        ]
+    ]
+},
+{
+    name: 'Marzo',
+    id: 'Marzo',
+    data: [
+        [
+            'Area 3',
+            0.193037
+        ]
+    ]
+},
+{
+    name: 'Abril',
+    id: 'Abril',
+    data: [
+        [
+            'Area 1',
+            0.299160
+        ],
+        [
+            'Area 3',
+            0.085794
+        ]
+    ]
+},
+{
+    name: 'Mayo',
+    id: 'Mayo',
+    data: [
+        [
+            'Area 1',
+            0.356991
+        ],
+        [
+            'Area 3',
+            0.150140
+        ]
+    ]
+},
+{
+    name: 'Junio',
+    id: 'Junio',
+    data: [
+        [
+            'Area 1',
+            1.140983
+        ],
+        [
+            'Area 3',
+            0.193037
+        ]
+    ]
+},
+{
+    name: 'Julio',
+    id: 'Julio',
+    data: [
+        [
+            'Area 3',
+            0.064346
+        ]
+    ]
+},
+{
+    name: 'Agosto',
+    id: 'Agosto',
+    data: [
+        [
+            'Area 1',
+            0.235737
+        ],
+        [
+            'Area 3',
+            0.085794
+        ]
+    ]
+},
+{
+    name: 'Septiembre',
+    id: 'Septiembre',
+    data: [
+        [
+            'Area 4',
+            0.181328
+        ],
+        [
+            'Area 1',
+            0.229344
+        ],
+        [
+            'Area 5',
+            0.108797
+        ],
+        [
+            'Area 3',
+            0.107243
+        ]
+    ]
+},
+{
+    name: 'Octubre',
+    id: 'Octubre',
+    data: [
+        [
+            'Area 4',
+            0.294770
+        ],
+        [
+            'Area 1',
+            0.357110
+        ],
+        [
+            'Area 3',
+            0.128691
+        ]
+    ]
+},
+{
+    name: 'Noviembre',
+    id: 'Noviembre',
+    data: [
+        [
+            'Area 4',
+            0.284357
+        ],
+        [
+            'Area 1',
+            0.644543
+        ],
+        [
+            'Area 5',
+            0.138155
+        ],
+        [
+            'Area 6',
+            2.139670
+        ],
+        [
+            'Area 7',
+            13.845238
+        ],
+        [
+            'Area 3',
+            0.171588
+        ]
+    ]
+},
+{
+    name: 'Diciembre',
+    id: 'Diciembre',
+    data: [
+        [
+            'Cine',
+            6.907732
+        ],
+        [
+            'Area 4',
+            2.888589
+        ],
+        [
+            'Area 8',
+            12.107229
+        ],
+        [
+            'Area 9',
+            15.007226
+        ],
+        [
+            'Area 1',
+            4.846471
+        ],
+        [
+            'Area 2',
+            25.756630
+        ],
+        [
+            'Area 5',
+            4.428980
+        ],
+        [
+            'Area 6',
+            2.231929
+        ],
+        [
+            'Area 10',
+            3.315711
+        ],
+        [
+            'Area 3',
+            0.085794
+        ]
+    ]
+}

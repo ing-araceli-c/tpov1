@@ -1,0 +1,60 @@
+{
+    name: 'Enero',
+    y: 10,
+    drilldown: 'Enero'
+},
+{
+    name: 'Febrero',
+    y: 10,
+    drilldown: 'Febrero'
+},
+{
+    name: 'Marzo',
+    y: 5,
+    drilldown: 'Marzo'
+},
+{
+    name: 'Abril',
+    y: 10,
+    drilldown: 'Abril'
+},
+{
+    name: 'Mayo',
+    y: 10,
+    drilldown: 'Mayo'
+},
+{
+    name: 'Junio',
+    y: 5,
+    drilldown: 'Junio'
+},
+{
+    name: 'Julio',
+    y: 5,
+    drilldown: 'Julio'
+},
+{
+    name: 'Agosto',
+    y: 10,
+    drilldown: 'Agosto'
+},
+{
+    name: 'Septiembre',
+    y: 10,
+    drilldown: 'Septiembre'
+},
+{
+    name: 'Octubre',
+    y: 5,
+    drilldown: 'Octubre'
+},
+{
+    name: 'Noviembre',
+    y: 10,
+    drilldown: 'Noviembre'
+},
+{
+    name: 'Diciembre',
+    y: 10,
+    drilldown: 'Diciembre'
+}

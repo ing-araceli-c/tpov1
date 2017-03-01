@@ -1,0 +1,54 @@
+{"nodes":[
+{"name":"Radio"},
+{"name":"Televisi\u00f3n"},
+{"name":"Cine"},
+{"name":"Medios impresos"},
+{"name":"Medios complementarios"},
+{"name":"Internet"},
+{"name":"Producci\u00f3n de contenidos"},
+{"name":"An\u00e1lisis, estudios y m\u00e9tricas"},
+{"name":"Impresiones"},
+
+{"name":"Contratos"},
+{"name":"Ordenes de Compra"},
+
+{"name":"Teletorreon S.A. de C.V."},
+{"name":"Publicidad de Mexicali S.A. de C.V."},
+{"name":"Televisi\u00f3n estatal S.A. de C.V."},
+{"name":"Impresos y medios S.A. de C.V."},
+{"name":"Servicios Netmarketing S.A. de C.V."},
+{"name":"Universidad de Mexicali S.A. de C.V."}
+],
+"links":[
+{"source":1,"target":9,"value":10000.00},
+{"source":2,"target":9,"value":null},
+{"source":3,"target":9,"value":null},
+{"source":4,"target":9,"value":null},
+{"source":5,"target":9,"value":null},
+{"source":6,"target":9,"value":null},
+
+{"source":1,"target":10,"value":100.00},
+{"source":2,"target":10,"value":null},
+{"source":3,"target":10,"value":null},
+{"source":4,"target":10,"value":null},
+{"source":5,"target":10,"value":null},
+{"source":6,"target":10,"value":null},
+
+{"source":9,"target":11,"value":null},
+{"source":10,"target":11,"value":100.00},
+
+{"source":9,"target":12,"value":null},
+{"source":10,"target":12,"value":null},
+
+{"source":9,"target":13,"value":10000.00},
+{"source":10,"target":13,"value":null},
+
+{"source":9,"target":14,"value":null},
+{"source":10,"target":14,"value":null},
+
+{"source":9,"target":15,"value":null},
+{"source":10,"target":15,"value":null},
+
+{"source":9,"target":16,"value":null},
+{"source":10,"target":16,"value":null}
+]}

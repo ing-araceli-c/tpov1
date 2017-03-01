@@ -1,0 +1,13 @@
+{"name": "Campañas y avisos institucionales  $        10,100.00",
+"children": [
+             {"name": "Campañas  $             0.00",
+              "children": [ 
+                          ]
+            },     
+            {
+            "name": "Avisos institucionales  $        10,100.00",
+              "children": [ {"name": "Municipio -  $        10,100.00", "size": 10100.00}
+                          ]
+            }
+            ]
+}

@@ -1,0 +1,22 @@
+{
+"name": "Campañas y avisos institucionales $ 30,000",
+"children": [
+             {"name": "Campañas $ 20,000",
+              "children": [
+                 {"name": "SO 1", "size": 300},
+                 {"name": "SO 2", "size": 100},
+                 {"name": "SO 3", "size": 200},
+                 {"name": "SO 4", "size": 400}
+                          ]
+            },     
+            {
+            "name": "Avisos institucionales $ 10,000",
+            "children": [
+                 {"name": "SOa 1", "size": 100},
+                 {"name": "SOb 2", "size": 200},
+                 {"name": "SOc 3", "size": 300},
+                 {"name": "SOd 4", "size": 400}
+                        ]
+            }
+            ]
+}

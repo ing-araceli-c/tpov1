@@ -1,0 +1,15 @@
+{
+    "nodes": [
+        {
+            "name": "Proveedor A"
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 9,
+            "value": 1461.022,
+            "numero": "2"
+        }
+    ]
+}

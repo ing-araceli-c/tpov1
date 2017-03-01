@@ -1,0 +1,220 @@
+{
+    name: 'Enero',
+    id: 'Enero',
+    data: [
+        [
+            'CONCEPTO 1',
+            0.406522
+        ],
+        [
+            'CONCEPTO 2',
+            0.672456
+        ],
+        [
+            'CONCEPTO 3',
+            0.082877
+        ]
+    ]
+},
+{
+    name: 'Febrero',
+    id: 'Febrero',
+    data: [
+        [
+            'CONCEPTO 3',
+            0.110502
+        ]
+    ]
+},
+{
+    name: 'Marzo',
+    id: 'Marzo',
+    data: [
+        [
+            'CONCEPTO 3',
+            0.248630
+        ]
+    ]
+},
+{
+    name: 'Abril',
+    id: 'Abril',
+    data: [
+        [
+            'CONCEPTO 1',
+            0.385316
+        ],
+        [
+            'CONCEPTO 3',
+            0.110502
+        ]
+    ]
+},
+{
+    name: 'Mayo',
+    id: 'Mayo',
+    data: [
+        [
+            'CONCEPTO 1',
+            0.422651
+        ],
+        [
+            'CONCEPTO 2',
+            0.139991
+        ],
+        [
+            'CONCEPTO 3',
+            0.193379
+        ]
+    ]
+},
+{
+    name: 'Junio',
+    id: 'Junio',
+    data: [
+        [
+            'CONCEPTO 1',
+            1.824198
+        ],
+        [
+            'CONCEPTO 3',
+            0.248630
+        ]
+    ]
+},
+{
+    name: 'Julio',
+    id: 'Julio',
+    data: [
+        [
+            'CONCEPTO 3',
+            0.110502
+        ]
+    ]
+},
+{
+    name: 'Agosto',
+    id: 'Agosto',
+    data: [
+        [
+            'CONCEPTO 1',
+            0.303627
+        ],
+        [
+            'CONCEPTO 3',
+            0.110502
+        ]
+    ]
+},
+{
+    name: 'Septiembre',
+    id: 'Septiembre',
+    data: [
+        [
+            'CONCEPTO 4',
+            0.264612
+        ],
+        [
+            'CONCEPTO 1',
+            0.295393
+        ],
+        [
+            'CONCEPTO 5',
+            0.140129
+        ],
+        [
+            'CONCEPTO 3',
+            0.138128
+        ]
+    ]
+},
+{
+    name: 'Octubre',
+    id: 'Octubre',
+    data: [
+        [
+            'CONCEPTO 4',
+            0.379661
+        ],
+        [
+            'CONCEPTO 1',
+            0.459955
+        ],
+        [
+            'CONCEPTO 3',
+            0.165753
+        ]
+    ]
+},
+{
+    name: 'Noviembre',
+    id: 'Noviembre',
+    data: [
+        [
+            'CONCEPTO 4',
+            0.366249
+        ],
+        [
+            'CONCEPTO 1',
+            0.830166
+        ],
+        [
+            'CONCEPTO 5',
+            0.177942
+        ],
+        [
+            'CONCEPTO 6',
+            2.755877
+        ],
+        [
+            'CONCEPTO 7',
+            18.066457
+        ],
+        [
+            'CONCEPTO 3',
+            0.221004
+        ]
+    ]
+},
+{
+    name: 'Diciembre',
+    id: 'Diciembre',
+    data: [
+        [
+            'CONCEPTO 8',
+            8.897102
+        ],
+        [
+            'CONCEPTO 4',
+            4.610189
+        ],
+        [
+            'CONCEPTO 9',
+            15.594011
+        ],
+        [
+            'CONCEPTO 10',
+            19.329183
+        ],
+        [
+            'CONCEPTO 1',
+            7.316145
+        ],
+        [
+            'CONCEPTO 2',
+            8.383966
+        ],
+        [
+            'CONCEPTO 5',
+            4.676132
+        ],
+        [
+            'CONCEPTO 7',
+            1.423536
+        ],
+        [
+            'CONCEPTO 3',
+            0.138128
+        ]
+    ]
+}

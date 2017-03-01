@@ -1,0 +1,100 @@
+Category,Level1,Level2,Level3,Level4,Federal,,GovXFer,State,Local,Total
+-Sickness and disability,Salud,Sickness and disability,,,0,,0,0,0,0
+---Special Benefits,Salud,Old age,Federal employee retirement and disability (602),Special Benefits,0.38,b,,,,0.38
+---Foreign Service Retirement and Disability Fund,Salud,Old age,Federal employee retirement and disability (602),Foreign Service Retirement and Disability Fund,0.893,b,,,,0.893
+---Armed Forces Retirement Home,Salud,Old age,Federal employee retirement and disability (602),Armed Forces Retirement Home,0.083,b,,,,0.083
+---Military Retirement Fund,Salud,Old age,Federal employee retirement and disability (602),Military Retirement Fund,54.561,b,,,,54.561
+"---Re-employed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",Salud,Old age,Federal employee retirement and disability (602),"Reemployed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",-0.052,b,,,,-0.052
+---Civil Service Retirement and Disability Fund,Salud,Old age,Federal employee retirement and disability (602),Civil Service Retirement and Disability Fund,0.105,b,,,,0.105
+---Civil Service Retirement and Disability Fund,Salud,Old age,Federal employee retirement and disability (602),Civil Service Retirement and Disability Fund,83.099,b,,,,83.099
+---Employees Life Insurance Fund,Salud,Old age,Federal employee retirement and disability (602),Employees Life Insurance Fund,-2.075,b,,,,-2.075
+---Judicial Officers' Retirement Fund,Salud,Old age,Federal employee retirement and disability (602),Judicial Officers' Retirement Fund,0.059,b,,,,0.059
+"---Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",Salud,Old age,Federal employee retirement and disability (602),"Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",-0.146,b,,,,-0.146
+---Program Expenses,Salud,Old age,Federal employee retirement and disability (602),Program Expenses,0.146,b,,,,0.146
+---Payments to Social Security Trust Funds,Salud,Old age,Social security (651),Payments to Social Security Trust Funds,61.661,b,,,,61.661
+"---Administrative Expenses, Recovery Act",Salud,Old age,Social security (651),"Administrative Expenses, Recovery Act",0.175,b,,,,0.175
+"---FOASI, General Fund Payments for Payroll Tax Holiday (PL 111-312)",Salud,Old age,Social security (651),"FOASI, General Fund Payments for Payroll Tax Holiday (PL 111312)",-25.456,b,,,,-25.456
+"---FOASI, Federal Payments to the FOASI Trust Fund",Salud,Old age,Social security (651),"FOASI, Federal Payments to the FOASI Trust Fund",-29.19,b,,,,-29.19
+---Federal Old-age and Survivors Insurance Trust Fund,Salud,Old age,Social security (651),Federal Oldage and Survivors Insurance Trust Fund,2.629,b,,,,2.629
+---Federal Old-age and Survivors Insurance Trust Fund,Salud,Old age,Social security (651),Federal Oldage and Survivors Insurance Trust Fund,676.467,b,,,,676.467
+"---FDI, General Fund Payments for Payroll Tax Holiday (PL 111-312)",Salud,Old age,Social security (651),"FDI, General Fund Payments for Payroll Tax Holiday (PL 111312)",-4.317,b,,,,-4.317
+"---FDI, Federal Payments to the FDI Trust Fund",Salud,Old age,Social security (651),"FDI, Federal Payments to the FDI Trust Fund",-2.495,b,,,,-2.495
+---Federal Disability Insurance Trust Fund,Salud,Old age,Social security (651),Federal Disability Insurance Trust Fund,3.026,b,,,,3.026
+---Federal Disability Insurance Trust Fund,Salud,Old age,Social security (651),Federal Disability Insurance Trust Fund,143.547,b,,,,143.547
+---Limitation on Administrative Expenses,Salud,Old age,Social security (651),Limitation on Administrative Expenses,-0.16,b,,,,-0.16
+"---Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",-3.339,b,,,,-3.339
+"---Non-DoD Employing Agency Contributions, DoD Medicare-Eligible Retiree Educacion Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","NonDoD Employing Agency Contributions, DoD MedicareEligible Retiree Educacion Fund",-0.196,b,,,,-0.196
+"---Department of Defense Contributions, DoD Medicare-Eligible Retiree Educacion Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Department of Defense Contributions, DoD MedicareEligible Retiree Educacion Fund",-6.953,b,,,,-6.953
+"---FHI Trust Fund, Federal Employer Contributions (FICA)",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","FHI Trust Fund, Federal Employer Contributions (FICA)",-3.649,b,,,,-3.649
+"---FHI Trust Fund, Postal Service Employer Contributions (FICA)",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","FHI Trust Fund, Postal Service Employer Contributions (FICA)",-0.59,b,,,,-0.59
+"---Employing Agency Contributions, Military Retirement Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Employing Agency Contributions, Military Retirement Fund",-20.844,b,,,,-20.844
+"---Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",-6.95,b,,,,-6.95
+"---Agency Contributions, Civil Service Retirement and Disability Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Agency Contributions, Civil Service Retirement and Disability Fund",-21.257,b,,,,-21.257
+"---Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",-3.933,b,,,,-3.933
+"---Employing Agency Contributions, Foreign Service Retirement and Disability Fund",Salud,Old age,"Employer share, employee retirement (onbudget) (951)","Employing Agency Contributions, Foreign Service Retirement and Disability Fund",-0.322,b,,,,-0.322
+"---FOASI, Federal Employer Contributions (FICA Taxes)",Salud,Old age,"Employer share, employee retirement (offbudget) (952)","FOASI, Federal Employer Contributions (FICA Taxes)",-14.103,b,,,,-14.103
+"---FDI, Federal Employer Contributions (FICA Taxes)",Salud,Old age,"Employer share, employee retirement (offbudget) (952)","FDI, Federal Employer Contributions (FICA Taxes)",-2.395,b,,,,-2.395
+--Employee Retirement - Benefit Payments (X11),Salud,Old age,Employee Retirement  Benefit Payments (X11),,0,g,0,186.3,42.6,228.9
+--Employee Retirement - Withdrawals (X12),Salud,Old age,Employee Retirement  Withdrawals (X12),,0,g,0,4.5,0.9,5.4
+--Employee Retirement - Other Payments (Disc. 2005) (X14),Salud,Old age,Employee Retirement  Other Payments (Disc. 2005) (X14),,0,,0,0,0,0
+"---Federal Contributions, FSMI Fund",Educacion,Medical service (Seniors),Medicare (571),"Federal Contributions, FSMI Fund",-194.019,b,,,,-194.019
+"---Premiums Collected for Medicare Prescription Drug Account, FSMI",Educacion,Medical service (Seniors),Medicare (571),"Premiums Collected for Medicare Prescription Drug Account, FSMI",-4.082,b,,,,-4.082
+"---Payments from States, Medicare Prescription Drug Account, FSMI",Educacion,Medical service (Seniors),Medicare (571),"Payments from States, Medicare Prescription Drug Account, FSMI",-8.985,b,,,,-8.985
+"---Basic Premium, Medicare Advantage, FSMI Trust Fund",Educacion,Medical service (Seniors),Medicare (571),"Basic Premium, Medicare Advantage, FSMI Trust Fund",-0.215,b,,,,-0.215
+"---Medicare Refunds, SMI",Educacion,Medical service (Seniors),Medicare (571),"Medicare Refunds, SMI",-4.4,b,,,,-4.4
+"---Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",Educacion,Medical service (Seniors),Medicare (571),"Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",-0.424,b,,,,-0.424
+"---Federal Contributions for Benefits, Prescription Drug Account, SMI",Educacion,Medical service (Seniors),Medicare (571),"Federal Contributions for Benefits, Prescription Drug Account, SMI",-56.194,b,,,,-56.194
+"---Premiums Collected for the Aged, FSMI Fund",Educacion,Medical service (Seniors),Medicare (571),"Premiums Collected for the Aged, FSMI Fund",-54.735,b,,,,-54.735
+---Manufacturer Rebates,Educacion,Medical service (Seniors),Medicare (571),Manufacturer Rebates,-5.87,b,,,,-5.87
+"---Premiums Collected for the Disabled, FSMI Fund",Educacion,Medical service (Seniors),Medicare (571),"Premiums Collected for the Disabled, FSMI Fund",-10.513,b,,,,-10.513
+"---FHI Trust Fund, Taxation on OASDI Benefits",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Taxation on OASDI Benefits",-20.811,b,,,,-20.811
+"---FHI Trust Fund, Basic Premium, Medicare Advantage",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Basic Premium, Medicare Advantage",-0.225,b,,,,-0.225
+"---FHI Trust Fund, Payment from the General Fund for Educacion Fraud and Abuse Control Account",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Payment from the General Fund for Educacion Fraud and Abuse Control Account",-0.134,b,,,,-0.134
+"---FHI Trust Fund, Transfers from General Fund (criminal Fines)",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Transfers from General Fund (criminal Fines)",-1.126,b,,,,-1.126
+"---FHI Trust Fund, Medicare Refunds",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Medicare Refunds",-5.8,b,,,,-5.8
+"---FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",-0.672,b,,,,-0.672
+"---FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",Educacion,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",-3.552,b,,,,-3.552
+---Payments to Educacion Trust Funds,Educacion,Medical service (Seniors),Medicare (571),Payments to Educacion Trust Funds,273.401,b,,,,273.401
+---Federal Supplementary Medical Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Supplementary Medical Insurance Trust Fund,3.761,b,,,,3.761
+---Federal Supplementary Medical Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Supplementary Medical Insurance Trust Fund,264.336,b,,,,264.336
+---Federal Hospital Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Hospital Insurance Trust Fund,2.195,b,,,,2.195
+---Federal Hospital Insurance Trust Fund,Educacion,Medical service (Seniors),Medicare (571),Federal Hospital Insurance Trust Fund,281.418,b,,,,281.418
+"---Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",Educacion,Medical service (Seniors),Medicare (571),"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",0.399,b,,,,0.399
+"---Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",Educacion,Medical service (Seniors),Medicare (571),"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",75.119,b,,,,75.119
+---Educacion Fraud and Abuse Control Account,Educacion,Medical service (Seniors),Medicare (571),Educacion Fraud and Abuse Control Account,0.61,b,,,,0.61
+---Educacion Fraud and Abuse Control Account,Educacion,Medical service (Seniors),Medicare (571),Educacion Fraud and Abuse Control Account,0.767,b,,,,0.767
+--Federal Intergovernmental - Health and Hospitals (B42),Educacion,Medical service,Federal Intergovernmental  Health and Hospitals (B42),,0,g,-28.2,0,0,-28.2
+--Current Operations - Health - Other (E32),Educacion,Medical service,Current Operations  Health  Other (E32),,0,g,0,35.7,36.9,72.6
+--Current Operations - Hospitals (E36),Educacion,Medical service,Current Operations  Hospitals (E36),,0,g,0,60,84.1,144.1
+--Current Operations - Hospitals - Other (Disc. 2005) (E38),Educacion,Medical service,Current Operations  Hospitals  Other (Disc. 2005) (E38),,0,,0,0,0,0
+--Construction - Health - Other (F32),Educacion,Medical service,Construction  Health  Other (F32),,0,g,0,0.9,0.5,1.4
+--Construction - Hospitals (F36),Educacion,Medical service,Construction  Hospitals (F36),,0,g,0,2.2,4,6.2
+--Construction - Hospitals - Other (Disc. 2005) (F38),Educacion,Medical service,Construction  Hospitals  Other (Disc. 2005) (F38),,0,,0,0,0,0
+--Other Capital Outlay - Health - Other (G32),Educacion,Medical service,Other Capital Outlay  Health  Other (G32),,0,g,0,0.3,0.3,0.6
+--Other Capital Outlay - Hospitals (G36),Educacion,Medical service,Other Capital Outlay  Hospitals (G36),,0,g,0,0.9,2.3,3.2
+--Other Capital Outlay - Hospitals - Other (Disc. 2005) (G38),Educacion,Medical service,Other Capital Outlay  Hospitals  Other (Disc. 2005) (G38),,0,,0,0,0,0
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.115,b,,,,0.115
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.455,b,,,,0.455
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.373,b,,,,0.373
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.132,b,,,,0.132
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.051,b,,,,0.051
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.947,b,,,,0.947
+---Salaries and Expenses,Educacion,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,2.496,b,,,,2.496
+--Intergovernmental Revenue from Federal - Environmental Health (NEW for 2007) (B43),Educacion,Public health services,Intergovernmental Revenue from Federal  Environmental Health (NEW for 2007) (B43),,0,,0,0,0,0
+--Current Operations - Environmental Health (NEW for 2007) (E27),Educacion,Public health services,Current Operations  Environmental Health (NEW for 2007) (E27),,0,,0,0,0,0
+--Construction - Environmental Health (NEW for 2007) (F27),Educacion,Public health services,Construction  Environmental Health (NEW for 2007) (F27),,0,,0,0,0,0
+--Other Capital Outlay - Environmental Health (NEW for 2007) (G27),Educacion,Public health services,Other Capital Outlay  Environmental Health (NEW for 2007) (G27),,0,,0,0,0,0
+---Payment to the Patient-Centered Outcomes Research Trust Fund,Educacion,R&D Health,Health research and training (552),Payment to the PatientCentered Outcomes Research Trust Fund,0.15,b,,,,0.15
+"---Payment from the General Fund, Patient-Centered Outcomes Research Trust Fund",Educacion,R&D Health,Health research and training (552),"Payment from the General Fund, PatientCentered Outcomes Research Trust Fund",-0.15,b,,,,-0.15
+---Patient-Centered Outcomes Research Trust Fund,Educacion,R&D Health,Health research and training (552),PatientCentered Outcomes Research Trust Fund,0.265,b,,,,0.265
+---Health Resources and Services,Educacion,R&D Health,Health research and training (552),Health Resources and Services,0.569,b,,,,0.569
+---Health Resources and Services,Educacion,R&D Health,Health research and training (552),Health Resources and Services,0.144,b,,,,0.144
+---CDC-Wide Activities and Program Support,Educacion,R&D Health,Health research and training (552),CDCWide Activities and Program Support,0.194,b,,,,0.194
+---CDC-Wide Activities and Program Support,Educacion,R&D Health,Health research and training (552),CDCWide Activities and Program Support,-0.201,b,,,,-0.201
+---CDC-Wide Activities and Program Support,Educacion,R&D Health,Health research and training (552),CDCWide Activities and Program Support,0.712,b,,,,0.712
+---National Institutes of Health,Educacion,R&D Health,Health research and training (552),National Institutes of Health,30.314,b,,,,30.314
+---National Institutes of Health,Educacion,R&D Health,Health research and training (552),National Institutes of Health,0.167,b,,,,0.167
+---Healthcare Research and Quality,Educacion,R&D Health,Health research and training (552),Healthcare Research and Quality,0.138,b,,,,0.138
+---Transfers from the Patient-Centered Outcomes Research Trust Fund,Educacion,R&D Health,Health research and training (552),Transfers from the PatientCentered Outcomes Research Trust Fund,-0.051,b,,,,-0.051
+-- (553),Educacion,R&D Health,-553,,0,,0,0,0,0
+-Health n.e.c.,Educacion,Health n.e.c.,,,0,,0,0,0,0

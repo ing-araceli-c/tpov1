@@ -1,0 +1,8 @@
+[
+  {"title":"33605","subtitle":"Información en medios",       "ranges":[150,225,300],    "measures":[220,270],   "markers":[50,100,150,200]},
+  {"title":"361",  "subtitle":"actividades gubernamentales", "ranges":[5,10,20,30],     "measures":[3,8,18,25], "markers":[26]},
+  {"title":"362",  "subtitle":"venta de bienes o servicios", "ranges":[350,500,600],    "measures":[100,320],   "markers":[550]},
+  {"title":"363",  "subtitle":"Servicios de creatividad",    "ranges":[1400,2000,2500], "measures":[1000,1650], "markers":[2100]},
+  {"title":"364",  "subtitle":"Servicios de revelado",       "ranges":[3.5,4.25,5],     "measures":[3.2,4.7],   "markers":[4.4]}
+]
+

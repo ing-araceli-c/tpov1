@@ -1,0 +1,46 @@
+{
+    "name": "Sujetos obligados: 1",
+    "children": [
+        {
+            "name": "Sujetos obligados contratantes: 0",
+            "size": 0,
+            "children": [
+                {
+                    "name": "N/D",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Sujetos obligados solicitantes:0",
+            "size": 0,
+            "children": [
+                {
+                    "name": "N/D",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Sujetos obligados contratantes y solicitantes:1",
+            "size": 1,
+            "children": [
+                {
+                    "name": "Sujetos obligados contratantes:1",
+                    "children": [
+                        {
+                            "name": "CAMPAÑA A - $ 29,000",
+                            "size": 29000,
+                            "id": 3
+                        },
+                        {
+                            "name": "CAMPAÑA B  - $ 66,503",
+                            "size": 66502.8,
+                            "id": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
